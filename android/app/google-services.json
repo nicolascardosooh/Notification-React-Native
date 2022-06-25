@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852254053489",
+    "project_id": "nicolas-cardoso",
+    "storage_bucket": "nicolas-cardoso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852254053489:android:3b766e6e361afa37ef77d0",
+        "android_client_info": {
+          "package_name": "com.prolife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852254053489-gcva2t02liphhsvh6e61kdmttpjkidkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHugWJF-CBlE_ILRsW_P7c6TzfyC-r7Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852254053489-gcva2t02liphhsvh6e61kdmttpjkidkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
